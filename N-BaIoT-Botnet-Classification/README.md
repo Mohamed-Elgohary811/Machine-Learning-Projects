@@ -69,7 +69,11 @@ This notebook was built for **Google Colab** and mounts Google Drive for storing
 ## Results
  
 The final XGBoost model trained on **original features + Transformer embeddings** is evaluated with accuracy, weighted/macro precision-recall-F1, and macro-averaged ROC-AUC. See the notebook's evaluation section for exact numbers on your run.
- 
+
 ## License
- 
-Add a license of your choice (e.g., MIT) here.
+
+This project is licensed under the MIT License.
+
+#### Author
+> Mohamed Elgohary — [GitHub](https://github.com/Mohamed-Elgohary811) | [LinkedIn](https://www.linkedin.com/feed/)
+
